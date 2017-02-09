@@ -1,0 +1,14 @@
+Body {
+background-color: red;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+h1 {
+    background-color: green;
+}
+p {
+    background-color: yellow;
+}
